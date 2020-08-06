@@ -7,4 +7,4 @@
 5. docker-compose up -d --build
 6. docker-compose exec app pipenv run pytest
 
-http://0.0.0.0:8080 - API, Swagger схема
+http://0.0.0.0:8080/docs - API, Swagger схема
